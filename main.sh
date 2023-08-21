@@ -3,9 +3,9 @@
 DEBIAN_FRONTEND=noninteractive
 
 # Clone Upstream
-mkdir -p ./src-pkg-name
-cp -rvf ./debian ./src-pkg-name/
-cd ./src-pkg-name/
+git clone https://gitlab.freedesktop.org/xorg/proto/xorgproto.git -b xorgproto-2023.2
+cp -rvf ./debian ./xorgproto/
+cd ./xorgproto/
 
 # Get build deps
 apt-get build-dep ./ -y
