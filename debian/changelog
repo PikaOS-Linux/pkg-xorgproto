@@ -1,4 +1,4 @@
-xorgproto (2023.2-99pika1.lunar) lunar; urgency=medium
+xorgproto (2023.2-100pika1) pikauwu; urgency=medium
 
   * New upstream release.
   * control: Drop x11proto-xf86dga-dev, reverse-depends are gone.
