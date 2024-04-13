@@ -1,3 +1,9 @@
+xorgproto (2024.1-100pika1) pikauwu; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Wed, 16 Aug 2023 13:07:14 +0300
+
 xorgproto (2023.2-100pika2) pikauwu; urgency=medium
 
   * New upstream release.
